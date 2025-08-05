@@ -1,16 +1,18 @@
-## Hi there 👋
+## ⚡ zeketests
 
-<!--
-**zeketests/zeketests** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA engineer, breaking things so you don’t have to.  
+15+ years deep in the game.  
+Manual, automated, doesn't matter — it gets tested.
 
-Here are some ideas to get you started:
+Building frameworks.  
+Hunting bugs.  
+Trust issues? I write tests for that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> Currently exploring Playwright, TypeScript, and anything that makes devs sweat less.  
+> Into tech, gaming, and crypto.
+
+🛠️ Tools: Playwright · Cypress · Postman · GitHub Actions  
+
+---
