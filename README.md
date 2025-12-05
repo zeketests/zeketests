@@ -13,6 +13,6 @@ Trust issues? I write tests for that.
 > Currently exploring Playwright, TypeScript, and anything that makes devs sweat less.  
 > Into tech, gaming, and crypto.
 
-🛠️ Tools: Playwright · Cypress · Postman · GitHub Actions  
+🛠️ Tools: Playwright · Postman · Cypress
 
 ---
