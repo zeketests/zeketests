@@ -1,21 +1,23 @@
-### Hi there 👋
-
-**Thanks for visiting my GitHub profile!**
-
-- 🧪 QA Engineer — 15+ years breaking things so you don’t have to  
-- ⚡ Specialized in **Playwright** ecosystems (core + CLI + advanced automation flows)  
-- 🤖 Working with **MCP (Model Context Protocol)** for AI-driven testing workflows  
-- 🧠 I design test systems, not just test cases  
-- 🔍 “Trust issues?” → I build frameworks that prove things  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **Hi, I'm Zeke — QA Engineer & Automation Architect**
 
 ---
 
-### 🚀 Currently
+### 🧪 About Me
 
-- 🔭 Deep diving into **Playwright CLI** and headless automation at scale  
-- 🧩 Exploring **MCP-based testing agents** and AI-assisted QA  
-- ⚙️ Building faster, more reliable test pipelines  
-- 🎮 Into tech, gaming, and crypto  
+- 15+ years shipping quality at speed — enabling teams to move fast without breaking things
+- Specialized in **Playwright CLI** and headless automation at scale
+- Building **AI-augmented testing workflows** with **Claude (Anthropic)** and Claude Skills
+- Designing end-to-end test systems that cover both **automated** and **manual** testing strategies
+
+---
+
+### 🤖 What I'm Working On
+
+- 🎭 **Playwright CLI** — headless browser automation, trace viewer, codegen, and CI pipelines
+- 🧠 **Claude + Skills** — AI-driven test agents that plan, execute, and report test runs
+- ⚙️ **Automation frameworks** — scalable, maintainable, fast feedback loops
+- 📋 **Manual testing** — exploratory testing, test plans, and edge-case hunting
+- 🔗 Bridging the gap between human intuition and machine precision in QA
 
 ---
 
@@ -26,6 +28,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
@@ -35,4 +38,34 @@
 
 ---
 
-> “Modern QA is about saving time — using AI to test smarter, not more.”
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeketests&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeketests&theme=dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+> "The best QA isn't just automated or manual — it's intelligent. AI handles the repetitive, humans handle the creative."
+
+---
+
+### 📺 Watch My Videos
+
+<p align="center">
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@zekeTests">▶ See all videos on YouTube</a>
+</p>
+
+---
+
+### 📬 Let's Connect
+
+Open to senior QA / automation architect roles — [reach me on LinkedIn](https://www.linkedin.com/in/zekeqa/)
