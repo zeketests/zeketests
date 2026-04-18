@@ -11,7 +11,7 @@
 
 ---
 
-### 🤖 What I'm Working On
+### ⚡ What I'm Working On
 
 - 🎭 **Playwright CLI** — headless browser automation, trace viewer, codegen, and CI pipelines
 - 🧠 **Claude + Skills** — AI-driven test agents that plan, execute, and report test runs
@@ -35,19 +35,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeketests&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeketests&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
-> "The best QA isn't just automated or manual — it's intelligent. AI handles the repetitive, humans handle the creative."
 
 ---
 
