@@ -51,13 +51,14 @@
 
 ---
 
-### 📺 Watch My Videos
+### 📺 Latest Video
 
 <p align="center">
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
+  <a href="https://www.youtube.com/watch?v=UzAy5sWCCYg">
+    <img src="https://img.youtube.com/vi/UzAy5sWCCYg/maxresdefault.jpg" width="480" alt="Playwright CLI + Copilot: Generate Automated Tests with AI (Step-by-Step) in Less than 5 minutes!"/>
+    <br/>
+    <strong>Playwright CLI + Copilot: Generate Automated Tests with AI (Step-by-Step) in Less than 5 minutes!</strong>
+  </a>
 </p>
 
 <p align="center">
