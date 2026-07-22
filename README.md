@@ -6,7 +6,7 @@
 
 - 15+ years shipping quality at speed — enabling teams to move fast without breaking things
 - Specialized in **Playwright CLI** and headless automation at scale
-- Building **AI-augmented testing workflows** with **Claude (Anthropic)** and Claude Skills. Supporting also Opencode.
+- Building **AI-augmented testing workflows** with **Claude (Anthropic)** and Claude Skills.
 - Designing end-to-end test systems that cover both **automated** and **manual** testing strategies
 
 ---
