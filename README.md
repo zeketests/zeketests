@@ -56,4 +56,4 @@
 
 ### 📬 Let's Connect
 
-Open to senior QA / automation architect roles — [reach me on LinkedIn](https://www.linkedin.com/in/zekeqa/)
+Open to senior QA / automation architect roles
